@@ -1,0 +1,3 @@
+An attempt at creating a cross platform media solution for any and every need. I've decided to start this project due to the inefficiencies of transferring media from one device whether it be a hard drive, flash drive or cell phone to another. i've seen many media players that aim to do this, if foobar was cross platform, i'd develop for them. sadly amarok too is great yet it is not as flexible as foobar. here's to something great!
+
+peace
